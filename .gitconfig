@@ -1,0 +1,6 @@
+[user]
+
+	email = coughcon@umich.edu
+	name = Connor Coughlin
+[alias]
+	graph = log --graph --full
